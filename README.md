@@ -73,7 +73,7 @@ mpiHello2.c
 
 mpiHello3.c
 ```bash
-./mpiHello3
+mpirun -np 2 ./mpiHello3
 ```
 
 
