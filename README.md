@@ -16,7 +16,7 @@ Clone the project using the following commands from console
 ```bash
 git https://github.com/Marianadaso3/HDT2-Paralela.git
 ```
-Instalations
+## Instalations
 
 ```bash
 sudo apt-get update
@@ -31,7 +31,7 @@ lamboot
 ```
 -----------------------------------------------------
 
-Compile
+## Compile
 
 mpiHello.c
 ```bash
@@ -50,16 +50,16 @@ mpicc mpiHello3.c -o mpiHello3
 
 -----------------------------------------------------
 
-Run code
+## Run code
 
-If you need permitions:
+####  If you need permitions:
 
 mpiHello.c
 ```bash
 chmod +x mpiHello
 ```
 
-If you dont need permitions:
+#### If you dont need permitions:
 
 mpiHello.c
 ```bash
